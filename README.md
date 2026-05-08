@@ -8,9 +8,9 @@ through real planetary data fetched from an external API.
 | Name | Role | GitHub |
 |---|---|---|
 | Ayomide | Team Lead | https://github.com/Ayoo-a |
-| Tommy | Assistant Team Lead | https://github.com/TOSA122 |
-| Awwal | Developer | https://github.com/Olamile67 |
-| M (Miracle) | Developer | https://github.com/miracleosazuwa6-glitch |
+| ahmdallahyy-crypto | Assistant Team Lead |  |
+| Awwal | Developer |  |
+| OCHUKOME | Developer |  |
 
 ## What this website does
 
@@ -23,29 +23,29 @@ through real planetary data fetched from an external API.
 
 | Task Name | Assigned Member | Status |
 |---|---|---|
-| Project Lead & Repo Setup | Onabanjo Emmanuel | ✅ Finished |
-| README Documentation | Onabanjo Emmanuel | ✅ Finished |
-| Header & Video Section | Horlah | ✅ Finished |
-| API Planet Integration | Tommy | ⏳ In Progress |
-| Contact Form & Validation | Emmanuel | ✅ Finished |
-| About Section & Footer | M | ⏳ In Progress |
+| Project Lead & Repo Setup | Ayomide | ✅ Finished |
+| README Documentation | Ayomide | ✅ Finished |
+| Header & Video Section | ahmdallahyy-crypto | ✅ Finished |
+| API Planet Integration | Awwal | ⏳ In Progress |
+| Contact Form & Validation | OCHUKOME | ✅ Finished |
+| About Section & Footer | Ayomide | ⏳ In Progress |
 | Responsive Mobile Layout | Group Effort (Final Sync) | ❌ Not Started |
 
 ## Components
 
 | Component | File | Developer |
 |---|---|---|
-| Header & Hero Video | Header.jsx | Horlah |
-| Video Section | VideoSection.jsx | Horlah |
-| Planet Data Grid | PlanetList.jsx | Tommy |
-| API Service | services/api.js | Tommy |
-| Contact Form | ContactForm.jsx | Emmanuel |
-| Footer & About | Footer.jsx | M |
+| Header & Hero Video | Header.jsx | ahmdallahyy-crypto |
+| Video Section | VideoSection.jsx | ahmdallahyy-crypto |
+| Planet Data Grid | PlanetList.jsx | Awwal |
+| API Service | services/api.js | Awwal |
+| Contact Form | ContactForm.jsx | Ayomide |
+| Footer & About | Footer.jsx | Ayomide |
 
 ## How to run this at home
 
 1. Clone the repository:
-   git clone https://github.com/onabanjoemmanuel62-a11y/TS-Academy-Group-13-Capstone.git
+   git clone https://github.com/Ayoo-a/TS-Academy-Group-16-Capstone
 
 2. Install dependencies:
    npm install

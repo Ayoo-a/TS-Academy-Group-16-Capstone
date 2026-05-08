@@ -8,9 +8,9 @@ through real planetary data fetched from an external API.
 | Name | Role | GitHub |
 |---|---|---|
 | Ayomide | Team Lead | https://github.com/Ayoo-a |
-| ahmdallahyy-crypto | Assistant Team Lead |  |
-| Awwal | Developer |  |
-| OCHUKOME | Developer |  |
+| ahmdallahyy-crypto | Assistant Team Lead | https://github.com/ahmadallahyy-crypto |
+| Awwal | Developer/CO-Team Lead | https://github.com/AWWAL3421 |
+| OCHUKOME | Developer | https://github.com/Ochukome |
 
 ## What this website does
 

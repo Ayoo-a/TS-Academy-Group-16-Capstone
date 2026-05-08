@@ -25,9 +25,9 @@ through real planetary data fetched from an external API.
 |---|---|---|
 | Project Lead & Repo Setup | Ayomide | ✅ Finished |
 | README Documentation | Ayomide | ✅ Finished |
-| Header & Video Section | ahmdallahyy-crypto | ✅ Finished |
-| API Planet Integration | Awwal | ⏳ In Progress |
-| Contact Form & Validation | OCHUKOME | ✅ Finished |
+| Header & Video Section | ahmdallahyy-crypto | ❌ Not Started |
+| API Planet Integration | Awwal | ❌ Not Started |
+| Contact Form & Validation | OCHUKOME | ❌ Not Started |
 | About Section & Footer | Ayomide | ⏳ In Progress |
 | Responsive Mobile Layout | Group Effort (Final Sync) | ❌ Not Started |
 

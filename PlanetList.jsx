@@ -1,15 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import './PlanetGallery.css';
+import { getPlanets } from '../services/api'; 
 
 function PlanetGallery() {
   const [planets, setPlanets] = useState([]);
 
   useEffect(() => {
-    // call the live API link here, we could have use axios which will make us not need the json cinverter but fecth is okay also, it is good and we will need it to pass the api as json file something like that sha
-    fetch('https://anurella.github.io/json/planets.json')
-      .then((response) => response.json())  //the response.json is cause we use fecth, axios could have not warrant it but I no wan installa am sha
-      .then((data) => setPlanets(data))
-      .catch((error) => console.error('Error fetching planet data:', error));
+    // We created an async function inside useEffect to handle the service call, the async is just like go and fetch the api while i keep the browser runnings, instead of just sync whic sometimes wait 
+    const loadPlanets = async () => {
+      const data = await getPlanets();
+      setPlanets(data);
+    };
+
+    loadPlanets();
+    
+    
   }, []);
 
   return (

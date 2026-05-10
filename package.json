@@ -1,0 +1,21 @@
+{
+  "name": "ts-academy-group-16-capstone",
+  "version": "1.0.0",
+  "description": "A React-based web application that explores our solar system \r through real planetary data fetched from an external API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayoo-a/TS-Academy-Group-16-Capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ayoo-a/TS-Academy-Group-16-Capstone/issues"
+  },
+  "homepage": "https://github.com/Ayoo-a/TS-Academy-Group-16-Capstone#readme"
+}

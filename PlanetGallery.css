@@ -1,0 +1,78 @@
+/* Main container for the whole planet section */
+.gallery-container {
+  padding: 80px 8%;
+  background-color: #f4f7fe;
+  text-align: center;
+}
+
+/* The title and intro text, this quite simple right? */
+.gallery-intro h2 {
+  color: #1e5ddb;
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+
+/* The grid that holds all the planet cards */
+.planet-grid {
+  display: grid;
+  /* Automatically fits as many cards as possible (min 250px wide), this was helped by AI still it is like look at how many space we have, repaet the 250mx, the gaps and all and make sure they follow this pattern */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  margin-top: 50px;
+}
+
+/* The card for each individual planet */
+.planet-card {
+  background: white;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  margin: 0; 
+  transition: transform 0.3s ease;
+}
+
+/* Makes the card 'pop' when you hover over it or when you take your mouse to it, it pops or watch for any action you know in hnnnnn java whenyou we use evenlistener or mouselistener so the hover stuffs does it for css  */
+.planet-card:hover {
+  transform: translateY(-10px);
+}
+
+/* The planet picture section */
+.planet-img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover; /* Keeps images from looking bakan bakan like make the object fit the box, no stretch am and no too make am look shrinked */
+}
+
+/* The caption area inside the card where we use figcaption to tell us about the text */
+.planet-card figcaption {
+  padding: 20px;
+  text-align: left;
+}
+
+.planet-card h3 {
+  color: #030b25;
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+.planet-card p {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+/*this will style the distance number only */
+.planet-card p strong {
+  color: #1e5ddb;
+}
+
+/* --- MOBILE Section --- */
+@media (max-width: 768px) {
+  .planet-grid {
+    grid-template-columns: 1fr; /* Stacks cards in one single column */
+    gap: 20px;
+  }
+
+  .gallery-container {
+    padding: 40px 5%; /* Gives more room for the cards on small screens */
+  }
+}

@@ -27,3 +27,21 @@ export const getPlanets = async () => {
     return [];
   }
 };
+export const submitContactForm = async (formData) => {
+  const endpoint = "https://whitebricks.com/tsacademy.php";
+  
+  try {
+    const response = await fetch(endpoint, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(formData),
+    });
+
+    if (!response.ok) throw new Error('Submission failed');
+    
+    return true; // Return true if it worked
+  } catch (error) {
+    console.error('Submission Error:', error);
+    return false; // Return false if it failed
+  }
+};

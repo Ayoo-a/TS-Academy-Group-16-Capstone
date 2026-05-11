@@ -43,3 +43,4 @@ export default function Header({ scrollToContact }) {
     </header>
   )
 }
+export default Header;

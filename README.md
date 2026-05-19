@@ -25,11 +25,11 @@ through real planetary data fetched from an external API.
 |---|---|---|
 | Project Lead & Repo Setup | Ayomide | ✅ Finished |
 | README Documentation | Ayomide | ✅ Finished |
-| Header & Video Section | ahmdallahyy-crypto | ❌ Not Started |
-| API Planet Integration | Awwal | ❌ Not Started |
+| Header & Video Section | ahmdallahyy-crypto | ✅ DONE |
+| API Planet Integration | Awwal | ✅ DONE |
 | Contact Form & Validation | OCHUKOME | ✅ DONE |
 | About Section & Footer | Ayomide | ⏳ In Progress |
-| Responsive Mobile Layout | Group Effort (Final Sync) | ❌ Not Started |
+| Responsive Mobile Layout | Group Effort (Final Sync) | ✅ DONE |
 
 ## Components
 

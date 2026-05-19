@@ -28,7 +28,7 @@ through real planetary data fetched from an external API.
 | Header & Video Section | ahmdallahyy-crypto | ✅ DONE |
 | API Planet Integration | Awwal | ✅ DONE |
 | Contact Form & Validation | OCHUKOME | ✅ DONE |
-| About Section & Footer | Ayomide | ⏳ In Progress |
+| About Section & Footer | Ayomide | ✅ DONE |
 | Responsive Mobile Layout | Group Effort (Final Sync) | ✅ DONE |
 
 ## Components

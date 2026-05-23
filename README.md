@@ -58,7 +58,7 @@ through real planetary data fetched from an external API.
 
 ## Live Demo
 
-🔗 Coming soon — will be updated after deployment
+🔗 https://ts-academy-group-16-capstone.vercel.app/
 
 ## Built With
 

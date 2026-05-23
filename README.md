@@ -66,4 +66,4 @@ through real planetary data fetched from an external API.
 - CSS3
 - Fetch API
 - Git & GitHub
-- Deployed on Netlify
+- Deployed on Vercel

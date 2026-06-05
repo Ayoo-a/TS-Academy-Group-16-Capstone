@@ -11,6 +11,7 @@ through real planetary data fetched from an external API.
 | ahmdallahyy-crypto | Assistant Team Lead | https://github.com/ahmadallahyy-crypto |
 | Awwal | Developer/CO-Team Lead | https://github.com/AWWAL3421 |
 | OCHUKOME | Developer | https://github.com/Ochukome |
+|Israel | Developer/team member| https://github.com/israeloluwasegun293-stars
 
 ## What this website does
 

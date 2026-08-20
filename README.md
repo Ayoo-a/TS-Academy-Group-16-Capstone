@@ -12,6 +12,7 @@ through real planetary data fetched from an external API.
 | Awwal | Developer/CO-Team Lead | https://github.com/AWWAL3421 |
 | OCHUKOME | Developer | https://github.com/Ochukome |
 |Israel | Developer/team member| https://github.com/israeloluwasegun293-stars
+| Okafor | Developer | https://github.com/ajikebaby |
 
 ## What this website does
 
